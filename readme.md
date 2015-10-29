@@ -9,6 +9,7 @@ web!
 (Personal thoughts on the current functional programming bandwagon)[http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon]
 
 ### Papers
+(Tradeoffs between Unique Types and Monads)[http://lambda-the-ultimate.org/node/1180] - 
 
 ### Wikis
 (nLab)[http://ncatlab.org/nlab/show/HomePage] - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
@@ -20,6 +21,13 @@ a theorem prover called JBob for writing proof in LISP.
 ### Communities
 (Lambda the Ultimate)[http://lambda-the-ultimate.org/] - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
+
+### Discussions (Quora, Stack Overflow, Reddit, etc)
+(Why dont more programmers use Haskell)[https://www.quora.com/Why-dont-more-programmers-use-Haskell]
+
+### Videos
+
+### Lectures
 
 ### License
 
