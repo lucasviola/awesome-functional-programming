@@ -16,6 +16,8 @@ web!
 ### Books
 
 ### Communities
+(Lambda the Ultimate)[http://lambda-the-ultimate.org/] - Community focused on discussing researches, papers
+and hot topic on academia. Very high tech discussion level.
 
 ### License
 
