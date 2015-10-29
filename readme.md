@@ -12,6 +12,7 @@ web!
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
 - [The implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm) - A paper by Simon Paper Jones
 - [Sound and Decidable Type Inference for Functional Dependencies](http://research.microsoft.com/en-us/um/people/simonpj/papers/fd-chr/esop04.pdf) - Another very famous paper on Type Inference by the main creator of Haskell and GHC
+- [Template Meta-Programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf) - Paper about generating code at compile-time in Haskell
 
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
