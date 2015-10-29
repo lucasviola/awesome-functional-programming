@@ -33,7 +33,7 @@ one of the most obscure topics of Functional Programming by Microsft researcher 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
 - [Adventure with types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI&list=RD6COvD8oynmI#t=0) - Lectures about Haskells strong Type System by Simon Peyton Jones.
-[The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) - Very good explanation
+- [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) - Very good explanation
 on the relationship between math and Algebraic Data Types, which is the Type System of some very common FP Languages such as Haskell and ML.
 
 ### License
