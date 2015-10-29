@@ -11,7 +11,11 @@ web!
 ### Papers
 
 ### Wikis
+(nLab)[http://ncatlab.org/nlab/show/HomePage] - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
+### Books
+
+### Communities
 
 ### License
 
