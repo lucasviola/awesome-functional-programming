@@ -6,29 +6,31 @@ web!
 ## Table of Contents
 
 ### Blog posts
-(Personal thoughts on the current functional programming bandwagon)[http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon]
+[Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon)
 
 ### Papers
-(Tradeoffs between Unique Types and Monads)[http://lambda-the-ultimate.org/node/1180] - 
+[Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
 
 ### Wikis
-(nLab)[http://ncatlab.org/nlab/show/HomePage] - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
+[nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
 ### Books
-(The Little Prover)[https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false] - Describes
-a theorem prover called JBob for writing proof in LISP.
+[The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) - Talks about
+a theorem prover called JBob for writing proofs in LISP.
 
 ### Communities
-(Lambda the Ultimate)[http://lambda-the-ultimate.org/] - Community focused on discussing researches, papers
+[Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
 
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
-(Why dont more programmers use Haskell)[https://www.quora.com/Why-dont-more-programmers-use-Haskell]
+[Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
 
 ### Videos
 
 ### Lectures
-(C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals)[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD] - Series of Lectures from one of the creators of Haskell
+[C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
+[Adventure with types in Haskell - Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI&list=RD6COvD8oynmI#t=0) - Lectures about Haskells strong Type System by Simon Peyton Jones.
+by Simon Peyton 
 
 ### License
 
