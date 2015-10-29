@@ -25,7 +25,7 @@ and hot topic on academia. Very high tech discussion level.
 
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
-
+- [Hidden complexities of tail-call/tail-recursion optimization](http://lambda-the-ultimate.org/classic/message1532.html)
 ### Videos
 - [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) - Explanation on
 one of the most obscure topics of Functional Programming by Microsft researcher Brian Beckman.
