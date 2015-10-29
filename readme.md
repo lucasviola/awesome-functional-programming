@@ -14,6 +14,8 @@ web!
 (nLab)[http://ncatlab.org/nlab/show/HomePage] - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
 ### Books
+(The Little Prover)[https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false] - Describes
+a theorem prover called JBob for writing proof in LISP.
 
 ### Communities
 (Lambda the Ultimate)[http://lambda-the-ultimate.org/] - Community focused on discussing researches, papers
