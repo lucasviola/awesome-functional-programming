@@ -36,6 +36,10 @@ one of the most obscure topics of Functional Programming by Microsft researcher 
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) - Very good explanation
 on the relationship between math and Algebraic Data Types, which is the Type System of some very common FP Languages such as Haskell and ML.
 
+### Tools
+
+### Repos
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
