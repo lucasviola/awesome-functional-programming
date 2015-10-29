@@ -10,7 +10,7 @@ web!
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
-
+- [The implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm) - A paper by Simon Paper Jones
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
@@ -26,6 +26,7 @@ and hot topic on academia. Very high tech discussion level.
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
 - [Hidden complexities of tail-call/tail-recursion optimization](http://lambda-the-ultimate.org/classic/message1532.html)
+
 ### Videos
 - [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) - Explanation on
 one of the most obscure topics of Functional Programming by Microsft researcher Brian Beckman.
