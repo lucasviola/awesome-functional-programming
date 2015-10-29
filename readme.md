@@ -43,6 +43,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 ### Tools
 
 ### Repos
+- [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 
 ### License
 
