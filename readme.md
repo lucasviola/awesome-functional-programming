@@ -5,7 +5,12 @@ web!
 
 ## Table of Contents
 
-###
+### Blog posts
+(Personal thoughts on the current functional programming bandwagon)[http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon]
+
+### Papers
+
+### Wikis
 
 
 ### License
