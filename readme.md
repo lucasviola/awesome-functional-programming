@@ -1,7 +1,13 @@
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* A curated list of functional programming resources from all around the
-web!
+## What is this about?
+
+* On the last decade, functional programming has gained a new found power due to its
+declarative characteristics which, some would say, are very effective for parallel computing
+and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
+
+This repo gathers some material on Functional Programming such as blog posts, papers, videos,
+tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
 ## Table of Contents
 
