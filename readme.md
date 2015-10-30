@@ -2,7 +2,7 @@
 
 ## What is this about?
 
-* On the last decade, functional programming has gained a new found power due to its
+On the last decade, functional programming has gained a new found power due to its
 declarative characteristics which, some would say, are very effective for parallel computing
 and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
 
