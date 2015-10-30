@@ -14,12 +14,14 @@ web!
 - [Sound and Decidable Type Inference for Functional Dependencies](http://research.microsoft.com/en-us/um/people/simonpj/papers/fd-chr/esop04.pdf) - Another very famous paper on Type Inference by the main creator of Haskell and GHC
 - [Template Meta-Programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf) - Paper about generating code at compile-time in Haskell
 
+
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
 ### Books
 - [The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) - Talks about
 a theorem prover called JBob for writing proofs in LISP.
+- [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf) - A Book on implementing logical formalisms in Isabelle/HOL.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
