@@ -45,6 +45,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 ### Repos
 - [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
