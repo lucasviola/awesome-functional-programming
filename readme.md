@@ -6,7 +6,7 @@ web!
 ## Table of Contents
 
 ### Blog posts
-- [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon)
+- [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) - Despite the name, this post actually clarifies some baisc concepts on Functional Programming, explains some of the History of FP and the implementation of FPs features on imperative languages and talks about all the fuss on declarative programming and why it has become so popular in the last few years.
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
