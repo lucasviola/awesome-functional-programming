@@ -10,6 +10,16 @@ This repo gathers some material on Functional Programming such as blog posts, pa
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
 ## Table of Contents
+[Blog Posts](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
+[Papers](https://github.com/lucasviola/awesome-functional-programming#papers)
+[Wikis](https://github.com/lucasviola/awesome-functional-programming#wikis)
+[Books](https://github.com/lucasviola/awesome-functional-programming#books)
+[Communities](https://github.com/lucasviola/awesome-functional-programming#communities)
+[Discussions](https://github.com/lucasviola/awesome-functional-programming#discussions)
+[Videos](https://github.com/lucasviola/awesome-functional-programming#videos)
+[Lectures](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
+[Tools](https://github.com/lucasviola/awesome-functional-programming#tools)
+[Repos](https://github.com/lucasviola/awesome-functional-programming#repos)
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) - Despite the name, this post actually clarifies some baisc concepts on Functional Programming, explains some of the History of FP and the implementation of FPs features on imperative languages and talks about all the fuss on declarative programming and why it has become so popular in the last few years.
