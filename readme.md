@@ -58,6 +58,7 @@ and hot topic on academia. Very high tech discussion level.
 one of the most obscure topics of Functional Programming by Microsft researcher Brian Beckman.
 - [Haskell is useless](https://www.youtube.com/watch?v=iSmkqocn0oQ) - Simon Peyton Jones being
 just too humble about his creation.
+- [Brian Beckman: The Zen of Stateless State](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
