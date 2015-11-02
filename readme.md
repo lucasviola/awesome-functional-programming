@@ -39,6 +39,7 @@ tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 a theorem prover called JBob for writing proofs in LISP.
 - [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf) - A Book on implementing logical formalisms in Isabelle/HOL.
 - [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) - A book focused on teaching types, recursive thinking and other important subjects in Standard ML. 
+- [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page) - Introduces you to programming design in a very mathematical way. 
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
