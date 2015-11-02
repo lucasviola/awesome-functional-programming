@@ -65,6 +65,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+- [Haskell Must Watch](https://github.com/drKraken/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 
 ### License
 
