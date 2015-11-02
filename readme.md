@@ -60,6 +60,7 @@ one of the most obscure topics of Functional Programming by Microsft researcher 
 just too humble about his creation.
 - [Brian Beckman: The Zen of Stateless State](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+- [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
