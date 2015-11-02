@@ -22,7 +22,9 @@ tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 - [Repos](https://github.com/lucasviola/awesome-functional-programming#repos)
 
 ### Blog posts
-- [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) - Despite the name, this post actually clarifies some baisc concepts on Functional Programming, explains some of the History of FP and the implementation of FPs features on imperative languages and talks about all the fuss on declarative programming and why it has become so popular in the last few years.
+- [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
+`Despite the name, this post actually clarifies some baisc concepts on Functional Programming, explains some of the History of FP and the implementation of FPs features on imperative languages and talks about all the fuss on declarative programming and why it has become so popular in the last few years.`
+
 - [A Monad in Practicality - Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 
 ### Papers
