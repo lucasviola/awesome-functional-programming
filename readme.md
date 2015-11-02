@@ -60,11 +60,11 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 
 ### Tools
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
-- [J-Bob](https://github.com/the-little-prover/j-bob) - The proff assistant from the book `The Little Prover`
 
 ### Repos
 - [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
+- [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ### License
 
