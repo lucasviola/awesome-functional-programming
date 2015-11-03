@@ -22,6 +22,7 @@ Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome
 - [Lectures](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
 - [Tools](https://github.com/lucasviola/awesome-functional-programming#tools)
 - [Repos](https://github.com/lucasviola/awesome-functional-programming#repos)
+- [People](https://github.com/lucasviola/awesome-functional-programming#people)
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
