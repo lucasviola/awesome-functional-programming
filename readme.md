@@ -82,6 +82,12 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Haskell Must Watch](https://github.com/drKraken/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML` 
 
+
+### People
+
+- [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/) - One of the creators of the Haskell Language and the Glasgow Haskell Compiler. Microsoft Researcher.
+
+
 ### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
