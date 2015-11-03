@@ -9,6 +9,7 @@ and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_
 This repo gathers some material on Functional Programming such as blog posts, papers, videos,
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
+Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
 ## Table of Contents
 - [Blog Posts](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
 - [Papers](https://github.com/lucasviola/awesome-functional-programming#papers)
