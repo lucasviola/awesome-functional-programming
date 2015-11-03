@@ -10,6 +10,7 @@ This repo gathers some material on Functional Programming such as blog posts, pa
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
 Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
+
 ## Table of Contents
 - [Blog Posts](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
 - [Papers](https://github.com/lucasviola/awesome-functional-programming#papers)
@@ -63,6 +64,7 @@ just too humble about his creation.
 - [Brian Beckman: The Zen of Stateless State](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
+- [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
