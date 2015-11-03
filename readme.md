@@ -86,6 +86,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 ### People
 
 - [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/) - One of the creators of the Haskell Language and the Glasgow Haskell Compiler. Microsoft Researcher.
+- [Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/) - Professor of Theoretical Computer Science at the University of Edinburgh, author of the famous paper Propositions as Types. One of the main people behind Java Generics Types.
 
 
 ### License
