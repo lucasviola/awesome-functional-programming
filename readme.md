@@ -47,6 +47,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [The Little MLer](http://www.ccs.neu.edu/home/matthias/BTML/) - A book focused on teaching types, recursive thinking and other important subjects in Standard ML. 
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page) - Introduces you to programming design in a very mathematical way. 
 - [How to Design Programs](http://www.htdp.org/)
+- [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
@@ -99,3 +100,4 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.
 
 Based on the [Awesome](https://github.com/sindresorhus/awesome/) project
+
