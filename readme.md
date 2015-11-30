@@ -40,8 +40,10 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
 - [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
+
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
+- [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - A good overview on Category Theory applied to Haskell from Wikibooks.
 
 ### Books
 - [The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) - Talks about
