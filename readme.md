@@ -44,6 +44,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 - [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - A good overview on Category Theory applied to Haskell from Wikibooks.
+- [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
 ### Books
 - [The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) - Talks about
