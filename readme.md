@@ -39,7 +39,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [Template Meta-Programming for Haskell](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf) - Paper about generating code at compile-time in Haskell
 - [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 - [From Higher-Order Logic to Haskell: There and Back Again](http://isabelle.in.tum.de/~haftmann/pdf/from_hol_to_haskell_haftmann.pdf)
-
+- [Translating Haskell to Isabelle](http://es.cs.uni-kl.de/events/TPHOLs-2007/proceedings/B-178.pdf)
 ### Wikis
 - [nLab](http://ncatlab.org/nlab/show/HomePage) - A wiki-lab with articles, discussion and tools from the point of view of category theory, which is the main math behind FP.
 
