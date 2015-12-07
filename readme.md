@@ -90,7 +90,8 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/drKraken/haskell-must-watch) - A list of videos, talks and courses on Haskell.
-- [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML` 
+- [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
+- [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
 
 ### People
