@@ -14,17 +14,17 @@ tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
 
 ## Table of Contents
-- [Blog Posts](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
-- [Papers](https://github.com/lucasviola/awesome-functional-programming#papers)
-- [Wikis](https://github.com/lucasviola/awesome-functional-programming#wikis)
-- [Books](https://github.com/lucasviola/awesome-functional-programming#books)
-- [Communities](https://github.com/lucasviola/awesome-functional-programming#communities)
-- [Discussions](https://github.com/lucasviola/awesome-functional-programming#discussions)
-- [Videos](https://github.com/lucasviola/awesome-functional-programming#videos)
-- [Lectures](https://github.com/lucasviola/awesome-functional-programming#blog-posts)
-- [Tools](https://github.com/lucasviola/awesome-functional-programming#tools)
-- [Repos](https://github.com/lucasviola/awesome-functional-programming#repos)
-- [People](https://github.com/lucasviola/awesome-functional-programming#people)
+- [Blog Posts](#blog-posts)
+- [Papers](#papers)
+- [Wikis](#wikis)
+- [Books](#books)
+- [Communities](#communities)
+- [Discussions](#discussions-quora-stack-overflow-reddit-etc)
+- [Videos](#videos)
+- [Lectures](#blog-posts)
+- [Tools](#tools)
+- [Repos](#repos)
+- [People](#people)
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
