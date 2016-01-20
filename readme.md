@@ -60,7 +60,7 @@ a theorem prover called JBob for writing proofs in LISP.
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
-- [FP Complete](https://www.fpcomplete.com/) - Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: [School of Haskell](https://www.fpcomplete.com/school)
+- [FP Complete](https://www.fpcomplete.com/) - Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: [School of Haskell](https://www.schoolofhaskell.com/school)
 
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
@@ -89,7 +89,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
-- [Haskell Must Watch](https://github.com/drKraken/haskell-must-watch) - A list of videos, talks and courses on Haskell.
+- [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 
