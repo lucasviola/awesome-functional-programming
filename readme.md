@@ -21,7 +21,7 @@ Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome
 - [Communities](#communities)
 - [Discussions](#discussions-quora-stack-overflow-reddit-etc)
 - [Videos](#videos)
-- [Lectures](#blog-posts)
+- [Lectures](#lectures)
 - [Tools](#tools)
 - [Repos](#repos)
 - [People](#people)
@@ -33,6 +33,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [A Monad in Practicality - First Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
+- [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
