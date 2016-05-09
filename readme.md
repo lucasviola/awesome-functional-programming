@@ -34,6 +34,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [The Algebra of Algebraic Data Types](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+- [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
