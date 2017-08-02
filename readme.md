@@ -85,6 +85,10 @@ just too humble about his creation.
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) - Very good explanation
 on the relationship between math and Algebraic Data Types, which is the Type System of some very common FP Languages such as Haskell and ML.
 
+### Platforms
+
+- [Paqmind.com] – Guides and challenges to learn and improve in programming. All content is CS and FP oriented.
+
 ### Tools
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
 
