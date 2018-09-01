@@ -64,6 +64,7 @@ a theorem prover called JBob for writing proofs in LISP.
 and hot topic on academia. Very high tech discussion level.
 - [FP Complete](https://www.fpcomplete.com/) - Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: [School of Haskell](https://www.schoolofhaskell.com/school)
 - [Haskellers](http://www.haskellers.com/) - The meeting point for Haskell Programmers
+- [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
 
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
