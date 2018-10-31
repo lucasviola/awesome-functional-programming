@@ -57,7 +57,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page) - Introduces you to programming design in a very mathematical way. 
 - [How to Design Programs](http://www.htdp.org/) / [Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
-
+- [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - the perfect second book on Haskell which dives into examples and application scenarios designed to teach how Haskell works and how to apply it correctly. 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
