@@ -100,6 +100,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+- [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 
 ### People
 
