@@ -78,6 +78,7 @@ just too humble about his creation.
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 - [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell
