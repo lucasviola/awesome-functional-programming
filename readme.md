@@ -102,6 +102,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 - [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+- [Parsing With Haskell Parser Combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ### People
 
