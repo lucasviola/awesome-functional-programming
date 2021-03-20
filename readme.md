@@ -51,6 +51,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
 ### Books
+- [Learn you a Haskell](http://learnyouahaskell.com/) - Book, but you can read it online for free as well. Very beginner friendly.
 - [The Little Prover](https://books.google.com.br/books?id=I9E_CgAAQBAJ&pg=PR13#v=onepage&q&f=false) - Talks about
 a theorem prover called JBob for writing proofs in LISP.
 - [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf) - A Book on implementing logical formalisms in Isabelle/HOL.
