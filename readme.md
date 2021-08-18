@@ -61,6 +61,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - the perfect second book on Haskell which dives into examples and application scenarios designed to teach how Haskell works and how to apply it correctly. 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
+- [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
