@@ -64,6 +64,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 - [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
 - [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
+- [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
