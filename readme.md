@@ -66,6 +66,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 - [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.
 - [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture) - Design patterns and architectures for building production quality applications using functional programming, with examples in Haskell and other FP languages.
+- [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp) - In this book, you’ll get practical experience writing Haskell code and applying functional programming to actual development challenges.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
