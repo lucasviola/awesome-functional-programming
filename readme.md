@@ -36,6 +36,7 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 - [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 - [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
+- [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
