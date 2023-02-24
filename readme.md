@@ -73,7 +73,7 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Jax in Action](https://www.manning.com/books/jax-in-action) - A book about The JAX numerical computing library.
 - [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - Automate complex tasks and processes with PowerShell scripts.
 - [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
-
+- [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
